@@ -54,6 +54,7 @@ The analysis follows the Google Data Analytics six-phase framework: Ask, Prepare
 
 ## Repository Structure
 
+```text
 marketplace-csat-analysis/
 ├── README.md
 ├── LICENSE
